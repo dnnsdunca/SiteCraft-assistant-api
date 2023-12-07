@@ -12,7 +12,7 @@ Scalable and Secure: Designed to handle high traffic volumes while maintaining d
 Getting Started
 To start using SiteCraft Assistant API in your project, follow these steps:
 
-Clone the Repository: git clone https://github.com/yourusername/SiteCraft-assistant-api.git
+Clone the Repository: git clone https://github.com/dnnsdunca/SiteCraft-assistant-api.git
 Install Dependencies: Execute npm install in your project directory.
 Configure API Keys: Set up your API keys and other configurations as per the provided documentation.
 Integrate with Your Project: Follow the integration guide to embed the API into your website or application.
